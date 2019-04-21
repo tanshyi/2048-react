@@ -30,10 +30,6 @@ var Container = React.createClass({
         <p className="game-explanation">
           <strong className="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same number touch, they <strong>merge into one!</strong>
         </p>
-        <hr/>
-        <p>
-          Created by <a href="http://www.emeraldion.it" target="_blank">Claudio Procida</a>. A clone of <a href="https://gabrielecirulli.github.io/2048/" target="_blank">2048</a> by <a href="http://gabrielecirulli.com" target="_blank">Gabriele Cirulli</a> written using <a href="https://facebook.github.io/react" target="_blank">React</a>.
-        </p>
       </div>
     );
   },
